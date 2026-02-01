@@ -1,3 +1,4 @@
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/7013148a-932f-483a-865d-a9f7fddbd489" />
 Key takeaways from this scenario analysis:
 -Current pricing is too close to cost
 
