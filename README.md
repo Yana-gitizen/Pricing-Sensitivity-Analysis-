@@ -105,10 +105,16 @@ Safety margin	~3×
 
 Even if customers react 3× worse than normal, profit still increases.
 
-Agavales Curve:
-Cel Rey Curve:
-Jose Cuervo Curve:
-Smirnoff Curve:
+Agavales Curve:<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/cfec25ee-0a95-4b8f-ad54-365cb9271094" />
+
+Cel Rey Curve: <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/c82ef9db-252e-4179-8802-b37ecf2f281f" />
+
+Jose Cuervo Curve: <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/51bc13ca-58c8-41e4-b5a3-57604ece0d50" />
+
+Smirnoff Curve: <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/7013148a-932f-483a-865d-a9f7fddbd489" />
+
+
+
 
 Conclusion: What every curve shows:
 
